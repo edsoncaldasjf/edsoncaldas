@@ -14,7 +14,7 @@
   <img align="center" alt="Ed-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ed-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ed-Nd" height="30" width="30" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/nodejs_original_logo_icon_146411.png">
-  <img align="right" alt="Rafa-yoda" height="150" src="https://c.tenor.com/YAf2ddXNnQUAAAAd/wizard-air-guitar-wizard.gif" >
+  <img align="right" alt="Ed-Wizard-Guitar" height="150" src="https://c.tenor.com/YAf2ddXNnQUAAAAd/wizard-air-guitar-wizard.gif" >
 
 </div>
 
@@ -26,7 +26,7 @@
   <a href = "mailto:edsoncaldasjf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edsoncaldasengsoft/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-    ![Snake animation](https://github.com/edsoncaldasjf/edsoncaldasjf/blob/output/github-contribution-grid-snake.svg)
+    
 
  
 </div>
